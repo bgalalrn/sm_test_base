@@ -1,0 +1,6 @@
+[submodule "moduels/sm_sub_1"]
+	path = moduels/sm_sub_1
+	url = git@github.com:bgalalrn/sm_sub_1.git
+[submodule "moduels/sm_sub_2"]
+	path = moduels/sm_sub_2
+	url = git@github.com:bgalalrn/sm_sub_2.git
